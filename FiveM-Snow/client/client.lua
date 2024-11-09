@@ -1,0 +1,6 @@
+CreateThread(function()
+    SetWeatherTypePersist("XMAS")
+    SetWeatherTypeNowPersist("XMAS")
+    SetWeatherTypeNow("XMAS")
+    SetOverrideWeather("XMAS")
+end)
